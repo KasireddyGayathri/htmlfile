@@ -1,0 +1,5 @@
+<html>
+<h1> My kitchen </h1>
+<h2> menu card </h2>
+<a href="./veg items.html" target="_blank">veg items</a><br>
+<a href="./nonveg items.html"target_blank">nonveg items</a><br>
